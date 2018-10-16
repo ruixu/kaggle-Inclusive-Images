@@ -102,3 +102,24 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# nohup log file
+nohup.out
+
+
+#Other folders
+/input/*
+/output/*
+/model/*
+/log/*
+/feature/*
+/post_pca_feature/*
+
+
+#HTML
+!/input/empty.txt
+!/output/empty.txt
+!/model/empty.txt
+!/log/empty.txt
+!/feature/empty.txt
+!/model/*.html
